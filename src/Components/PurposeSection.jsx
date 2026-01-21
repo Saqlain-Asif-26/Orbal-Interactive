@@ -23,7 +23,7 @@ const PurposeSection = () => {
           {/* Image Container */}
           <div className="flex justify-center md:justify-end">
               <img
-                src="/images/purpose-pic.png"
+                src="/Orbal-Interactive/images/purpose-pic.png"
                 alt="Purpose-pic"
                 className="rounded-2xl object-cover max-h-90 w-full md:w-auto"
               />

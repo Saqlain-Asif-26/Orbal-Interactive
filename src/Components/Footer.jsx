@@ -15,7 +15,7 @@ function Footer() {
             </div>
         </div>
         <div className='flex flex-col items-center py-4'>
-            <img className='cursor-pointer' src="/images/logo.png" alt="logo" />
+            <img className='cursor-pointer' src="/Orbal-Interactive/images/logo.png" alt="logo" />
             <div className='w-full pt-4 px-8 md:px-12 text-center md:text-start md:flex justify-between'>
                 <p><span className='font-bold'>Address:</span> XCOMPANYADDRESSX</p>
                 <p className='py-2 md:py-0'>© 2025 Orbal Interactive, All Rights Reserved</p>

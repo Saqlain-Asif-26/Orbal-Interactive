@@ -7,7 +7,7 @@ const DeliverSection = () => {
       description:
         "Our development teams create business-ready applications that are secure, scalable, and aligned with long-term operational demands. These solutions are not experiments. They are structured to support real work, solve clear problems, and adapt as you grow.",
       // Monitor Icon SVG
-      iconPath: '/images/development-icon.png',
+      iconPath: '/Orbal-Interactive/images/development-icon.png',
       isHighlighted: true,
     },
     {
@@ -15,7 +15,7 @@ const DeliverSection = () => {
       description:
         "We assess the gap between where your systems are and where your business needs them to be. Our consultants do not just offer advice. They work to develop strategic pathways that simplify complexity and reduce inefficiency across every department.",
       // Users Icon SVG
-      iconPath: '/images/consultancy-icon.png',
+      iconPath: '/Orbal-Interactive/images/consultancy-icon.png',
       isHighlighted: false,
     },
     {
@@ -23,14 +23,14 @@ const DeliverSection = () => {
       description:
         "Day-to-day functionality matters. Our support team provides dependable technical service to resolve issues quickly, prevent repeat problems, and maintain reliable infrastructure. From minor interruptions to larger transitions, you will never face a system issue alone.",
       // Settings/Gear Icon SVG
-      iconPath: '/images/infrastructure-icon.png',
+      iconPath: '/Orbal-Interactive/images/infrastructure-icon.png',
       isHighlighted: false,
     },
     {
       title: "Network Security and Monitoring",
       description:
         "Your network cannot afford blind spots. Orbal gives you complete visibility into activity, anomalies, and vulnerabilities. We prevent damage before it spreads and monitor usage patterns to anticipate future needs.",
-        iconPath: '/images/security-icon.png',
+        iconPath: '/Orbal-Interactive/images/security-icon.png',
       isHighlighted: false,
     },
   ];

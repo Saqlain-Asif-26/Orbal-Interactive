@@ -31,7 +31,7 @@ const SupportSection = () => {
             {/* Image */}
             <div className="flex justify-center md:justify-end">
               <img
-                src="/images/support-pic.png"
+                src="/Orbal-Interactive/images/support-pic.png"
                 alt="IT Support Team"
                 className="rounded-2xl object-cover max-h-90 w-full md:w-auto"
               />

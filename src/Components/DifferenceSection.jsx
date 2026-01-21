@@ -30,7 +30,7 @@ const DifferenceSection = () => {
       <div className="relative w-full group">
         <div className="w-full h-125 md:h-162.5">
           <img
-            src="/images/difference-pic.png" 
+            src="/Orbal-Interactive/images/difference-pic.png" 
             alt="The Orbal Difference"
             className="w-full h-full object-cover object-center brightness-[0.85]"
           />

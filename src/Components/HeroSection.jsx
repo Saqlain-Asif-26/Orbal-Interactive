@@ -17,12 +17,12 @@ const HeroSection = () => {
       <div className="relative z-10 flex justify-center pt-6">
         <div className="flex w-[90%] md:w-[50%] items-center justify-between rounded-2xl bg-black/70 px-4 py-2 backdrop-blur-md">
           <img
-            src="/images/logo.png"
+            src="/Orbal-Interactive/images/logo.png"
             alt="Orbal"
             className="h-12"
           />
           <img
-            src="/images/menu-button.png"
+            src="/Orbal-Interactive/images/menu-button.png"
             alt="Menu"
             className="h-8 cursor-pointer"
             onClick={toggleMenu}
@@ -58,12 +58,12 @@ const HeroSection = () => {
         ${menuOpen ? "translate-y-0" : "-translate-y-full"}`}
       >
         {/* Close Button */}
-        <button
-          onClick={closeMenu}
-          className="absolute top-6 right-6 text-cyan-400 text-2xl cursor-pointer"
-        >
-          ✕
-        </button>
+          <img
+            src="/Orbal-Interactive/images/close-button.png"
+            alt="Menu"
+            className="absolute top-6 right-6 h-8 cursor-pointer"
+            onClick={closeMenu}
+          />
 
         {/* Menu Content */}
         <div className="flex h-full flex-col justify-center px-10 sm:px-20 space-y-6 text-white">
